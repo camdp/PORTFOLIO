@@ -1,0 +1,18 @@
+h1 {
+	color: rgb(0,90,113);
+}
+
+h2 {
+	color: rgb(59,161,211);
+	font-size: 70px;
+	font-family: Poppins;
+}
+
+h3 {
+	color: rgb(237,102,99);
+}
+
+a {
+	color: rgb(237,102,99);
+	font-family: Poppins;
+}
