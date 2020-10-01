@@ -1,6 +1,6 @@
 h1 {
-	color: rgb(0,90,113);
-	font-family: 'Roboto', sans-serif;
+	color: black;
+	font-family: Poppins;
 }
 
 h2 {
@@ -19,7 +19,19 @@ a {
 	font-family: Poppins;
 }
 
-p{
+p {
 	color: rgb(0,0,0);
 	font-family: Poppins;
+}
+
+NEW STUFF //
+
+html { 
+  background: url(images/fond test.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.title2 {
+	color : green;
+	font-size: 120px;
 }
