@@ -1,37 +1,25 @@
+/* TYPOGRAPHIE */
+
 h1 {
 	color: black;
-	font-family: Poppins;
+	font-family: 'Poppins', sans-serif;
 }
 
 h2 {
 	color: rgb(59,161,211);
 	font-size: 70px;
-	font-family: Poppins;
-	font-weight: 40;
+	font-family: 'Poppins', sans-serif;
+}
+
+.title2 {
+	color: rgb(0,0,0);
+	font-weight: 47;
 }
 
 h3 {
 	color: rgb(237,102,99);
 	font-family: 'Roboto Slab', serif;
 
-a {
-	color: rgb(237,102,99);
-	font-family: Poppins;
-}
 
-p {
-	color: rgb(0,0,0);
-	font-family: Poppins;
-}
+/* MISE EN PAGES */
 
-NEW STUFF //
-
-html { 
-  background: url(images/fond test.jpg) no-repeat center center fixed;
-  background-size: cover;
-}
-
-.title2 {
-	color : green;
-	font-size: 120px;
-}
