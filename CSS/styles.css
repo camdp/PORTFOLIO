@@ -1,3 +1,7 @@
+html {
+	
+}
+
 /* TYPOGRAPHIE */
 
 h1 {
@@ -11,6 +15,10 @@ h2 {
 	font-family: 'Poppins', sans-serif;
 }
 
+.img {
+	width: 25%;
+}
+
 .title2 {
 	color: rgb(0,0,0);
 	font-weight: 47;
@@ -19,7 +27,13 @@ h2 {
 h3 {
 	color: rgb(237,102,99);
 	font-family: 'Roboto Slab', serif;
-
+}
 
 /* MISE EN PAGES */
 
+.aboutme {
+	display: flex;
+
+	justify-content: space-around;
+
+}  
